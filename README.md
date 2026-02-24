@@ -1,4 +1,4 @@
-<img width="768" height="394" alt="image" src="https://github.com/user-attachments/assets/fad21528-5626-4e69-812b-b1e243800048" /># Call Center Conversion Analysis
+# Call Center Conversion Analysis
 
 EDA-проект: анализ исходящих звонков клиентам и факторов, влияющих на успешный исход (конверсию).  
 Результат — выводы + практические рекомендации для улучшения скрипта и процесса обзвона.
